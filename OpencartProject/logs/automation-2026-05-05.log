@@ -1,0 +1,60 @@
+16:36:44.079 [main] INFO  testCases.TC03_LoginDDT - **TC03_LoginDDT finished**
+16:37:14.025 [main] INFO  testCases.TC03_LoginDDT - **TC03_LoginDDT started**
+16:37:17.682 [main] INFO  testCases.TC03_LoginDDT - **TC03_LoginDDT finished**
+16:37:17.696 [main] INFO  testCases.TC03_LoginDDT - **TC03_LoginDDT started**
+16:37:22.404 [main] INFO  testCases.TC03_LoginDDT - **TC03_LoginDDT finished**
+16:37:22.419 [main] INFO  testCases.TC03_LoginDDT - **TC03_LoginDDT started**
+16:37:35.690 [main] INFO  testCases.TC03_LoginDDT - **TC03_LoginDDT started**
+16:37:41.181 [main] INFO  testCases.TC03_LoginDDT - **TC03_LoginDDT finished**
+16:39:50.535 [main] INFO  testCases.TC03_LoginDDT - **TC03_LoginDDT started**
+16:40:15.253 [main] INFO  testCases.TC03_LoginDDT - **TC03_LoginDDT finished**
+16:40:43.199 [main] INFO  testCases.TC03_LoginDDT - **TC03_LoginDDT started**
+16:41:02.493 [main] INFO  testCases.TC03_LoginDDT - **TC03_LoginDDT finished**
+16:41:28.087 [main] INFO  testCases.TC03_LoginDDT - **TC03_LoginDDT started**
+16:43:12.693 [main] INFO  testCases.TC03_LoginDDT - **TC03_LoginDDT started**
+16:43:22.504 [main] INFO  testCases.TC03_LoginDDT - **TC03_LoginDDT finished**
+16:44:06.877 [main] INFO  testCases.TC03_LoginDDT - **TC03_LoginDDT started**
+16:44:24.546 [main] INFO  testCases.TC03_LoginDDT - **TC03_LoginDDT finished**
+16:44:24.564 [main] INFO  testCases.TC03_LoginDDT - **TC03_LoginDDT started**
+16:44:55.489 [main] INFO  testCases.TC03_LoginDDT - **TC03_LoginDDT finished**
+16:46:10.673 [main] INFO  testCases.TC03_LoginDDT - **TC03_LoginDDT started**
+16:46:52.824 [main] INFO  testCases.TC03_LoginDDT - **TC03_LoginDDT started**
+16:47:02.495 [main] INFO  testCases.TC03_LoginDDT - **TC03_LoginDDT finished**
+16:48:57.452 [main] INFO  testCases.TC03_LoginDDT - **TC03_LoginDDT started**
+16:49:02.330 [main] INFO  testCases.TC03_LoginDDT - **TC03_LoginDDT finished**
+16:49:02.346 [main] INFO  testCases.TC03_LoginDDT - **TC03_LoginDDT started**
+16:49:05.980 [main] INFO  testCases.TC03_LoginDDT - **TC03_LoginDDT finished**
+16:49:05.988 [main] INFO  testCases.TC03_LoginDDT - **TC03_LoginDDT started**
+16:49:18.172 [main] INFO  testCases.TC03_LoginDDT - **TC03_LoginDDT finished**
+16:49:18.172 [main] INFO  testCases.TC03_LoginDDT - **TC03_LoginDDT started**
+16:49:22.300 [main] INFO  testCases.TC03_LoginDDT - **TC03_LoginDDT finished**
+17:09:25.500 [main] INFO  testCases.TC01_AccountRegistration - **Starting TC01_AccountRegistration**
+17:09:25.769 [main] INFO  testCases.TC01_AccountRegistration - Clicked on My Account link
+17:09:26.566 [main] INFO  testCases.TC01_AccountRegistration - Clicked on Register link
+17:09:26.712 [main] INFO  testCases.TC01_AccountRegistration - Providing user details..
+17:09:30.929 [main] INFO  testCases.TC01_AccountRegistration - User created
+17:09:35.436 [main] INFO  testCases.TC02_LoginTest - **Starting TC02_LoginTest
+17:09:38.380 [main] INFO  testCases.TC02_LoginTest - **Finished TC02_LoginTest
+18:02:59.086 [main] INFO  testCases.TC01_AccountRegistration - **Starting TC01_AccountRegistration**
+18:02:59.476 [main] INFO  testCases.TC01_AccountRegistration - Clicked on My Account link
+18:03:00.246 [main] INFO  testCases.TC01_AccountRegistration - Clicked on Register link
+18:03:00.394 [main] INFO  testCases.TC01_AccountRegistration - Providing user details..
+18:03:04.853 [main] INFO  testCases.TC01_AccountRegistration - User created
+18:03:09.437 [main] INFO  testCases.TC02_LoginTest - **Starting TC02_LoginTest
+18:03:13.118 [main] INFO  testCases.TC02_LoginTest - **Finished TC02_LoginTest
+18:39:01.904 [main] INFO  testCases.TC01_AccountRegistration - **Starting TC01_AccountRegistration**
+18:39:02.285 [main] INFO  testCases.TC01_AccountRegistration - Clicked on My Account link
+18:39:03.123 [main] INFO  testCases.TC01_AccountRegistration - Clicked on Register link
+18:39:03.270 [main] INFO  testCases.TC01_AccountRegistration - Providing user details..
+18:39:06.654 [main] INFO  testCases.TC01_AccountRegistration - User created
+18:39:10.294 [main] INFO  testCases.TC02_LoginTest - **Starting TC02_LoginTest
+18:39:58.943 [main] INFO  testCases.TC02_LoginTest - **Starting TC02_LoginTest
+18:40:57.924 [main] INFO  testCases.TC02_LoginTest - **Starting TC02_LoginTest
+18:41:01.223 [main] INFO  testCases.TC02_LoginTest - **Finished TC02_LoginTest
+20:40:14.046 [main] INFO  testCases.TC01_AccountRegistration - **Starting TC01_AccountRegistration**
+20:40:14.523 [main] INFO  testCases.TC01_AccountRegistration - Clicked on My Account link
+20:40:15.653 [main] INFO  testCases.TC01_AccountRegistration - Clicked on Register link
+20:40:15.920 [main] INFO  testCases.TC01_AccountRegistration - Providing user details..
+20:40:20.987 [main] INFO  testCases.TC01_AccountRegistration - User created
+20:42:43.942 [main] INFO  testCases.TC01_AccountRegistration - **Starting TC01_AccountRegistration**
+20:42:44.184 [main] INFO  testCases.TC01_AccountRegistration - Clicked on My Account link

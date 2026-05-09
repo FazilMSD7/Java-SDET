@@ -1,0 +1,28 @@
+20:42:44.636 [main] INFO  testCases.TC01_AccountRegistration - Clicked on Register link
+20:42:44.841 [main] INFO  testCases.TC01_AccountRegistration - Providing user details..
+20:42:48.734 [main] INFO  testCases.TC01_AccountRegistration - User created
+12:14:58.176 [main] INFO  testCases.TC01_AccountRegistration - **Starting TC01_AccountRegistration**
+12:14:58.357 [main] INFO  testCases.TC01_AccountRegistration - Clicked on My Account link
+12:14:58.734 [main] INFO  testCases.TC01_AccountRegistration - Clicked on Register link
+12:14:58.865 [main] INFO  testCases.TC01_AccountRegistration - Providing user details..
+12:15:01.262 [main] INFO  testCases.TC01_AccountRegistration - User created
+12:27:46.462 [main] INFO  testCases.TC01_AccountRegistration - **Starting TC01_AccountRegistration**
+12:27:46.671 [main] INFO  testCases.TC01_AccountRegistration - Clicked on My Account link
+12:27:47.018 [main] INFO  testCases.TC01_AccountRegistration - Clicked on Register link
+12:27:47.099 [main] INFO  testCases.TC01_AccountRegistration - Providing user details..
+12:27:49.998 [main] INFO  testCases.TC01_AccountRegistration - User created
+12:37:48.538 [main] INFO  testCases.TC01_AccountRegistration - **Starting TC01_AccountRegistration**
+12:37:48.820 [main] INFO  testCases.TC01_AccountRegistration - Clicked on My Account link
+12:37:49.233 [main] INFO  testCases.TC01_AccountRegistration - Clicked on Register link
+12:37:49.381 [main] INFO  testCases.TC01_AccountRegistration - Providing user details..
+12:37:52.068 [main] INFO  testCases.TC01_AccountRegistration - User created
+14:43:47.020 [main] INFO  testCases.TC01_AccountRegistration - **Starting TC01_AccountRegistration**
+14:43:47.214 [main] INFO  testCases.TC01_AccountRegistration - Clicked on My Account link
+14:43:47.589 [main] INFO  testCases.TC01_AccountRegistration - Clicked on Register link
+14:43:47.732 [main] INFO  testCases.TC01_AccountRegistration - Providing user details..
+14:43:50.983 [main] INFO  testCases.TC01_AccountRegistration - User created
+14:55:49.425 [main] INFO  testCases.TC01_AccountRegistration - **Starting TC01_AccountRegistration**
+14:55:49.585 [main] INFO  testCases.TC01_AccountRegistration - Clicked on My Account link
+14:55:50.003 [main] INFO  testCases.TC01_AccountRegistration - Clicked on Register link
+14:55:50.089 [main] INFO  testCases.TC01_AccountRegistration - Providing user details..
+14:55:52.431 [main] INFO  testCases.TC01_AccountRegistration - User created
