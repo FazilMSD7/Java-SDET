@@ -26,3 +26,13 @@
 14:55:50.003 [main] INFO  testCases.TC01_AccountRegistration - Clicked on Register link
 14:55:50.089 [main] INFO  testCases.TC01_AccountRegistration - Providing user details..
 14:55:52.431 [main] INFO  testCases.TC01_AccountRegistration - User created
+15:17:00.294 [main] INFO  testCases.TC01_AccountRegistration - **Starting TC01_AccountRegistration**
+15:17:00.529 [main] INFO  testCases.TC01_AccountRegistration - Clicked on My Account link
+15:17:00.905 [main] INFO  testCases.TC01_AccountRegistration - Clicked on Register link
+15:17:01.023 [main] INFO  testCases.TC01_AccountRegistration - Providing user details..
+15:17:02.989 [main] INFO  testCases.TC01_AccountRegistration - User created
+15:17:20.725 [main] INFO  testCases.TC01_AccountRegistration - **Starting TC01_AccountRegistration**
+15:17:20.847 [main] INFO  testCases.TC01_AccountRegistration - Clicked on My Account link
+15:17:21.161 [main] INFO  testCases.TC01_AccountRegistration - Clicked on Register link
+15:17:21.235 [main] INFO  testCases.TC01_AccountRegistration - Providing user details..
+15:17:22.886 [main] INFO  testCases.TC01_AccountRegistration - User created

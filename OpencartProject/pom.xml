@@ -8,7 +8,6 @@
 
 	<build>
 		<plugins>
-
 			<!-- Compiler Plugin (compiles java src code)-->
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
@@ -36,7 +35,6 @@
 
 		</plugins>
 	</build>
-
 
 	<dependencies>
 		<!--Selenium-->
